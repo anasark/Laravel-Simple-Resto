@@ -6,7 +6,7 @@
 
 Web sistem ini adalah Web sistem CRUD sederhana untuk sebuah restoran. Web sistem menggunakan Framework Laravel.
 
-Terdapat 3 level untuk user:
+Terdapat 3 level untuk pengguna:
 - Level 1: Menejer
 - Level 2: Pelayan
 - Lever 3: Kasir
@@ -15,7 +15,7 @@ Terdapat 3 level untuk user:
 
 Aktivitas Menejer:
 - Menambahkan, mengupdate dan menghapus menu makanan dan minuman, dan meja.
-- Melihat aktivitas yang dilakukan oleh level 2: pelayan dan level 3: kasir.
+- Melihat aktivitas yang dilakukan oleh pengguna level 2: pelayan dan level 3: kasir.
 - Melihat status pesanan yang aktif.
 - Melihat riwayat pesanan <i>(soon)</i>
 
