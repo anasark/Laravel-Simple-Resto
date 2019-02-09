@@ -1,10 +1,10 @@
-<p align="center"><h1>Laravel Simple Resto</h1></p>
+<p align="center"><h1>Web Sistem Simple Resto</h1></p>
 
 
 
 ## Ringkasan
 
-Sistem ini adalah Web sistem untuk sebuah restoran. Web sistem CRUD yang sederhana.
+Web sistem ini adalah Web sistem sederhana untuk sebuah restoran. Web sistem menggunakan Framework Laravel.
 
 Terdapat 3 level untuk user:
 - Level 1: Menejer
@@ -13,14 +13,14 @@ Terdapat 3 level untuk user:
 
 ## Level 1: Menejer
 
-Menejer bisa:
+Aktivitas Menejer:
 - Menambahkan, mengupdate dan menghapus menu makanan dan minuman, dan meja.
 - Melihat aktivitas yang dilakukan oleh level 2: pelayan dan level 3: kasir.
 - Melihat pesanan yang aktif.
 
 ## Level 2: Pelayan
 
-Pelayan bisa:
+Aktivitas  Pelayan:
 - Melihat status menu makanan dan minuman, dan meja yang tersedia.
 - Membuat pesanan.
 - Melihat status pesanan yang aktif.
@@ -29,7 +29,7 @@ Pelayan bisa:
 
 ## Level 3: Kasir
 
-Kasir bisa:
+Aktivitas Kasir:
 - Melihat status menu makanan dan minuman, dan meja yang tersedia.
 - Melihat status pesanan yang aktif.
 - Merubah (menambah/mengurangi) menu makanan dan minuman.
