@@ -16,7 +16,8 @@ Terdapat 3 level untuk user:
 Aktivitas Menejer:
 - Menambahkan, mengupdate dan menghapus menu makanan dan minuman, dan meja.
 - Melihat aktivitas yang dilakukan oleh level 2: pelayan dan level 3: kasir.
-- Melihat pesanan yang aktif.
+- Melihat status pesanan yang aktif.
+- Melihat riwayat pesanan <i>(soon)</i>
 
 ## Level 2: Pelayan
 
