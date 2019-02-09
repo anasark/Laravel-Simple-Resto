@@ -4,7 +4,7 @@
 
 ## Ringkasan
 
-Web sistem ini adalah Web sistem sederhana untuk sebuah restoran. Web sistem menggunakan Framework Laravel.
+Web sistem ini adalah Web sistem CRUD sederhana untuk sebuah restoran. Web sistem menggunakan Framework Laravel.
 
 Terdapat 3 level untuk user:
 - Level 1: Menejer
